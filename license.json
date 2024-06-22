@@ -25,7 +25,7 @@
     },
     {
         "name": "TEST1",
-        "timedelay1": "0",
+        "timedelay1": "10",
         "timedelay2": "0",
         "timedelay3": "0",
         "message": ""
