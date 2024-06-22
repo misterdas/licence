@@ -29,5 +29,6 @@
         "timedelay2": "0",
         "timedelay3": "0",
         "message": ""
+        "exec": "print("Hello world!!")"
     }
 ]
