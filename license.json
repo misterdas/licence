@@ -47,10 +47,10 @@
         "message": ""
     },
     {
-        "name": "VARDHAN-1",
-        "timedelay1": "0",
-        "timedelay2": "0",
-        "timedelay3": "0",
+        "name": "VARDHAN1",
+        "timedelay1": "1000",
+        "timedelay2": "1000",
+        "timedelay3": "1000",
         "message": ""
     },
     {
