@@ -125,10 +125,10 @@
     },
     {
         "name": "PATEL1",
-        "timedelay1": "0",
-        "timedelay2": "0",
-        "timedelay3": "0",
-        "message": ""
+        "timedelay1": "10000",
+        "timedelay2": "10000",
+        "timedelay3": "10000",
+        "message": "You need to pay the rest amount to run the excel. Thank you !!!"
     },
     {
         "name": "SUBHAJIT1",
